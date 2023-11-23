@@ -1,2 +1,2 @@
-![simplex_av_logo](./simplex_av_logo.png =300x300)
+![simplex_av_logo](./simplex_av_logo_200x233.png)
 

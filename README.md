@@ -4,6 +4,4 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
-![License](https://img.shields.io/badge/license-MIT-green)
-
-![NetVersion](https://img.shields.io/badge/Net version-4.8-blue)
+![NetVersion](https://img.shields.io/badge/Net%20version-4.8-blue)

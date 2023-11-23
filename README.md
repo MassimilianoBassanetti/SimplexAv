@@ -1,2 +1,2 @@
-![img alt="simplex_av_logo](src="simplex_av_logo.png")
+![simplex_av_logo](./simplex_av_logo.png)
 

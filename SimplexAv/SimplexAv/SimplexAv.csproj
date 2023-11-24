@@ -76,5 +76,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimplexAvLib\SimplexAvLib.csproj">
+      <Project>{0b817ce7-c0c9-41be-bf45-2ee735decff6}</Project>
+      <Name>SimplexAvLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
